@@ -1,2 +1,1 @@
-# flyerverdict-media
-Public media for @FlyerVerdict posts
+Public media for @FlyerVerdict posts.
